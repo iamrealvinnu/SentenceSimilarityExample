@@ -1,0 +1,93 @@
+﻿{
+  "Scenario": "SentenceSimilarity",
+  "DataSource": {
+    "Version": 3,
+    "EscapeCharacter": "\"",
+    "ReadMultiLines": false,
+    "KeepDiacritics": false,
+    "KeepPunctuations": false,
+    "AllowQuoting": false,
+    "Type": "TabularFile",
+    "FilePath": "C:\\Users\\Vinay Gupta\\Downloads\\sentence_similarity_500.csv",
+    "Delimiter": ",",
+    "DecimalMarker": ".",
+    "HasHeader": true,
+    "ColumnProperties": [
+      {
+        "ColumnName": "Sentence1",
+        "ColumnPurpose": "SourceSentence",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Sentence2",
+        "ColumnPurpose": "ComparisonSentence",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Label",
+        "ColumnPurpose": "Label",
+        "ColumnDataFormat": "Single",
+        "IsCategorical": true,
+        "Type": "Column",
+        "Version": 5
+      }
+    ]
+  },
+  "Environment": {
+    "Type": "LocalCPU",
+    "Version": 1
+  },
+  "RunHistory": {
+    "Version": 3,
+    "Type": "Result",
+    "Trials": [
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "SentenceSimilarityRegression",
+        "Score": 0.99383397960434749,
+        "RuntimeInSeconds": 840.024,
+        "Parameter": {
+          "_SCHEMA_": "e0",
+          "e0": {
+            "LabelColumnName": "Label",
+            "Sentence1ColumnName": "Sentence1",
+            "Sentence2ColumnName": "Sentence2",
+            "ScoreColumnName": "Score",
+            "BatchSize": 32,
+            "MaxEpochs": 300,
+            "Architecture": "Roberta"
+          }
+        }
+      }
+    ],
+    "Estimators": {
+      "e0": "SentenceSimilarityRegression"
+    },
+    "Schema": "e0",
+    "MetricName": "Pearson-correlation",
+    "ModelFilePath": "D:\\SentenceSimilarity\\SentenceSimilarityExample\\MLModel1.mlnet"
+  },
+  "Type": "TrainingConfig",
+  "Version": 5,
+  "TrainingOption": {
+    "Version": 1,
+    "Type": "SentenceSimilarityTrainingOption",
+    "TrainingTime": 10,
+    "LabelColumn": "Label",
+    "SourceSentence": "Sentence1",
+    "ComparisonSentence": "Sentence2",
+    "Epoch": 300,
+    "ValidationOption": {
+      "Version": 0,
+      "Type": "TrainValidateSplitValidationOption",
+      "SplitRatio": 0.3
+    }
+  }
+}
