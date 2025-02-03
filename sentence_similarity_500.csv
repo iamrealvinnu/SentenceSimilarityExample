@@ -1,0 +1,501 @@
+Sentence1,Sentence2,Label
+AI is transforming industries,Artificial intelligence is revolutionizing sectors,1
+I love coffee,The sky is blue,0
+Deep learning is fascinating,Machine learning is a subset of AI,1
+Football is a great game,Basketball has a hoop,0
+Quantum computing will change everything,Quantum computing is the future,1
+Machine learning is a subset of AI,AI and machine learning go hand in hand,1
+Natural language processing is an interesting field,NLP involves understanding human language,1
+The sun rises in the east,The sun sets in the west,0
+Climate change is a major concern,Global warming affects the planet,1
+The internet connects people worldwide,The web brings people together,1
+AI chatbots are getting smarter.,The Earth is flat according to some people.,0
+Smart homes rely on IoT and AI.,The Earth is flat according to some people.,0
+Robots are becoming more intelligent with AI.,Cats are better than dogs in racing.,0
+Artificial intelligence is revolutionizing healthcare.,AI chatbots are getting smarter.,1
+AI chatbots are getting smarter.,The best way to write code is with no errors.,0
+Predictive analytics saves time and money.,I prefer rainy days over sunny days.,0
+Predictive analytics saves time and money.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,Artificial intelligence is revolutionizing healthcare.,1
+Smart homes rely on IoT and AI.,I prefer rainy days over sunny days.,0
+Smart homes rely on IoT and AI.,The Earth is flat according to some people.,0
+Artificial intelligence is revolutionizing healthcare.,Mars has the same atmosphere as Earth.,0
+Machine learning models are improving daily.,Smart homes rely on IoT and AI.,1
+Machine learning models are improving daily.,Winter is hotter than summer.,0
+AI chatbots are getting smarter.,The best way to write code is with no errors.,0
+Robots are becoming more intelligent with AI.,AI chatbots are getting smarter.,1
+AI helps in wildlife conservation.,Artificial intelligence is revolutionizing healthcare.,1
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,Natural language processing powers virtual assistants.,1
+Artificial intelligence is revolutionizing healthcare.,I prefer rainy days over sunny days.,0
+Robots are becoming more intelligent with AI.,Cats are better than dogs in racing.,0
+Quantum computing will revolutionize security.,AI helps in wildlife conservation.,1
+AI chatbots are getting smarter.,Machine learning models are improving daily.,1
+Robots are becoming more intelligent with AI.,Birds can swim in the ocean.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Quantum computing will revolutionize security.,Winter is hotter than summer.,0
+Machine learning models are improving daily.,Mountains are located under the sea.,0
+AI chatbots are getting smarter.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,Birds can swim in the ocean.,0
+Self-driving cars use deep learning.,AI chatbots are getting smarter.,1
+Natural language processing powers virtual assistants.,AI chatbots are getting smarter.,1
+Artificial intelligence is revolutionizing healthcare.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Winter is hotter than summer.,0
+Self-driving cars use deep learning.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Birds can swim in the ocean.,0
+Natural language processing powers virtual assistants.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+Natural language processing powers virtual assistants.,AI chatbots are getting smarter.,1
+Machine learning models are improving daily.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,Predictive analytics saves time and money.,1
+Self-driving cars use deep learning.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,The moon is made of cheese.,0
+Self-driving cars use deep learning.,Self-driving cars use deep learning.,1
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Predictive analytics saves time and money.,Robots are becoming more intelligent with AI.,1
+Predictive analytics saves time and money.,I prefer rainy days over sunny days.,0
+Machine learning models are improving daily.,Quantum computing will revolutionize security.,1
+Natural language processing powers virtual assistants.,AI helps in wildlife conservation.,1
+Self-driving cars use deep learning.,Self-driving cars use deep learning.,1
+Quantum computing will revolutionize security.,Natural language processing powers virtual assistants.,1
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+AI chatbots are getting smarter.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,Machine learning models are improving daily.,1
+AI helps in wildlife conservation.,The Earth is flat according to some people.,0
+Self-driving cars use deep learning.,Predictive analytics saves time and money.,1
+Artificial intelligence is revolutionizing healthcare.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,Natural language processing powers virtual assistants.,1
+Artificial intelligence is revolutionizing healthcare.,Self-driving cars use deep learning.,1
+Smart homes rely on IoT and AI.,AI chatbots are getting smarter.,1
+Smart homes rely on IoT and AI.,Cats are better than dogs in racing.,0
+Natural language processing powers virtual assistants.,Winter is hotter than summer.,0
+Artificial intelligence is revolutionizing healthcare.,Winter is hotter than summer.,0
+Smart homes rely on IoT and AI.,AI helps in wildlife conservation.,1
+AI helps in wildlife conservation.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,Mountains are located under the sea.,0
+Natural language processing powers virtual assistants.,Mountains are located under the sea.,0
+Artificial intelligence is revolutionizing healthcare.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+Self-driving cars use deep learning.,I prefer rainy days over sunny days.,0
+AI helps in wildlife conservation.,Smart homes rely on IoT and AI.,1
+Predictive analytics saves time and money.,Quantum computing will revolutionize security.,1
+Smart homes rely on IoT and AI.,Cats are better than dogs in racing.,0
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+AI chatbots are getting smarter.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Predictive analytics saves time and money.,1
+Predictive analytics saves time and money.,Predictive analytics saves time and money.,1
+Smart homes rely on IoT and AI.,Predictive analytics saves time and money.,1
+AI helps in wildlife conservation.,Artificial intelligence is revolutionizing healthcare.,1
+AI chatbots are getting smarter.,Robots are becoming more intelligent with AI.,1
+Robots are becoming more intelligent with AI.,Smart homes rely on IoT and AI.,1
+Robots are becoming more intelligent with AI.,The best way to write code is with no errors.,0
+Natural language processing powers virtual assistants.,Artificial intelligence is revolutionizing healthcare.,1
+Predictive analytics saves time and money.,AI helps in wildlife conservation.,1
+Robots are becoming more intelligent with AI.,Mars has the same atmosphere as Earth.,0
+Artificial intelligence is revolutionizing healthcare.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+Quantum computing will revolutionize security.,Natural language processing powers virtual assistants.,1
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Self-driving cars use deep learning.,Natural language processing powers virtual assistants.,1
+Artificial intelligence is revolutionizing healthcare.,Machine learning models are improving daily.,1
+Smart homes rely on IoT and AI.,Mountains are located under the sea.,0
+Self-driving cars use deep learning.,Smart homes rely on IoT and AI.,1
+Predictive analytics saves time and money.,Natural language processing powers virtual assistants.,1
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Predictive analytics saves time and money.,Birds can swim in the ocean.,0
+AI helps in wildlife conservation.,Mountains are located under the sea.,0
+Robots are becoming more intelligent with AI.,Mars has the same atmosphere as Earth.,0
+AI helps in wildlife conservation.,The Earth is flat according to some people.,0
+Natural language processing powers virtual assistants.,Machine learning models are improving daily.,1
+Robots are becoming more intelligent with AI.,Artificial intelligence is revolutionizing healthcare.,1
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Quantum computing will revolutionize security.,The moon is made of cheese.,0
+Smart homes rely on IoT and AI.,The Earth is flat according to some people.,0
+Natural language processing powers virtual assistants.,Machine learning models are improving daily.,1
+AI helps in wildlife conservation.,Winter is hotter than summer.,0
+Self-driving cars use deep learning.,I prefer rainy days over sunny days.,0
+Smart homes rely on IoT and AI.,The moon is made of cheese.,0
+Machine learning models are improving daily.,The Earth is flat according to some people.,0
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,Self-driving cars use deep learning.,1
+Machine learning models are improving daily.,Mars has the same atmosphere as Earth.,0
+AI chatbots are getting smarter.,Artificial intelligence is revolutionizing healthcare.,1
+Predictive analytics saves time and money.,Pineapples belong on pizza.,0
+Smart homes rely on IoT and AI.,Mountains are located under the sea.,0
+Robots are becoming more intelligent with AI.,Cats are better than dogs in racing.,0
+Machine learning models are improving daily.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,The best way to write code is with no errors.,0
+Self-driving cars use deep learning.,Smart homes rely on IoT and AI.,1
+Quantum computing will revolutionize security.,AI chatbots are getting smarter.,1
+Natural language processing powers virtual assistants.,Mars has the same atmosphere as Earth.,0
+Robots are becoming more intelligent with AI.,AI helps in wildlife conservation.,1
+Predictive analytics saves time and money.,Natural language processing powers virtual assistants.,1
+Artificial intelligence is revolutionizing healthcare.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Birds can swim in the ocean.,0
+Artificial intelligence is revolutionizing healthcare.,Cats are better than dogs in racing.,0
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+AI helps in wildlife conservation.,Machine learning models are improving daily.,1
+Artificial intelligence is revolutionizing healthcare.,Mars has the same atmosphere as Earth.,0
+Predictive analytics saves time and money.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,The Earth is flat according to some people.,0
+Robots are becoming more intelligent with AI.,The best way to write code is with no errors.,0
+Natural language processing powers virtual assistants.,Mountains are located under the sea.,0
+Smart homes rely on IoT and AI.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Mars has the same atmosphere as Earth.,0
+AI chatbots are getting smarter.,Predictive analytics saves time and money.,1
+Predictive analytics saves time and money.,Robots are becoming more intelligent with AI.,1
+Machine learning models are improving daily.,Cats are better than dogs in racing.,0
+Machine learning models are improving daily.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Self-driving cars use deep learning.,1
+Quantum computing will revolutionize security.,Natural language processing powers virtual assistants.,1
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+Smart homes rely on IoT and AI.,Mountains are located under the sea.,0
+Self-driving cars use deep learning.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,Cats are better than dogs in racing.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Artificial intelligence is revolutionizing healthcare.,I prefer rainy days over sunny days.,0
+AI helps in wildlife conservation.,Natural language processing powers virtual assistants.,1
+Robots are becoming more intelligent with AI.,Natural language processing powers virtual assistants.,1
+Machine learning models are improving daily.,Winter is hotter than summer.,0
+Smart homes rely on IoT and AI.,Cats are better than dogs in racing.,0
+Artificial intelligence is revolutionizing healthcare.,Artificial intelligence is revolutionizing healthcare.,1
+Self-driving cars use deep learning.,The best way to write code is with no errors.,0
+Self-driving cars use deep learning.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,Mountains are located under the sea.,0
+AI helps in wildlife conservation.,Mountains are located under the sea.,0
+AI chatbots are getting smarter.,I prefer rainy days over sunny days.,0
+Robots are becoming more intelligent with AI.,Birds can swim in the ocean.,0
+Quantum computing will revolutionize security.,I prefer rainy days over sunny days.,0
+Quantum computing will revolutionize security.,Self-driving cars use deep learning.,1
+Artificial intelligence is revolutionizing healthcare.,Winter is hotter than summer.,0
+Robots are becoming more intelligent with AI.,Pineapples belong on pizza.,0
+Smart homes rely on IoT and AI.,Natural language processing powers virtual assistants.,1
+Robots are becoming more intelligent with AI.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Artificial intelligence is revolutionizing healthcare.,Artificial intelligence is revolutionizing healthcare.,1
+AI chatbots are getting smarter.,AI chatbots are getting smarter.,1
+AI helps in wildlife conservation.,Artificial intelligence is revolutionizing healthcare.,1
+Robots are becoming more intelligent with AI.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Smart homes rely on IoT and AI.,Cats are better than dogs in racing.,0
+Robots are becoming more intelligent with AI.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Cats are better than dogs in racing.,0
+AI helps in wildlife conservation.,Quantum computing will revolutionize security.,1
+Natural language processing powers virtual assistants.,I prefer rainy days over sunny days.,0
+Quantum computing will revolutionize security.,Birds can swim in the ocean.,0
+Predictive analytics saves time and money.,Birds can swim in the ocean.,0
+Robots are becoming more intelligent with AI.,Mountains are located under the sea.,0
+Predictive analytics saves time and money.,Cats are better than dogs in racing.,0
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Natural language processing powers virtual assistants.,Mountains are located under the sea.,0
+Robots are becoming more intelligent with AI.,The Earth is flat according to some people.,0
+AI helps in wildlife conservation.,Smart homes rely on IoT and AI.,1
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+AI chatbots are getting smarter.,Robots are becoming more intelligent with AI.,1
+Quantum computing will revolutionize security.,Winter is hotter than summer.,0
+AI chatbots are getting smarter.,Mars has the same atmosphere as Earth.,0
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,Quantum computing will revolutionize security.,1
+AI chatbots are getting smarter.,AI chatbots are getting smarter.,1
+AI chatbots are getting smarter.,Self-driving cars use deep learning.,1
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,Artificial intelligence is revolutionizing healthcare.,1
+Robots are becoming more intelligent with AI.,Quantum computing will revolutionize security.,1
+Artificial intelligence is revolutionizing healthcare.,Natural language processing powers virtual assistants.,1
+AI helps in wildlife conservation.,AI helps in wildlife conservation.,1
+Artificial intelligence is revolutionizing healthcare.,The Earth is flat according to some people.,0
+AI helps in wildlife conservation.,Pineapples belong on pizza.,0
+AI helps in wildlife conservation.,Quantum computing will revolutionize security.,1
+Predictive analytics saves time and money.,Mountains are located under the sea.,0
+Robots are becoming more intelligent with AI.,The Earth is flat according to some people.,0
+Machine learning models are improving daily.,Mountains are located under the sea.,0
+AI chatbots are getting smarter.,I prefer rainy days over sunny days.,0
+Self-driving cars use deep learning.,Pineapples belong on pizza.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Quantum computing will revolutionize security.,1
+Self-driving cars use deep learning.,Machine learning models are improving daily.,1
+Artificial intelligence is revolutionizing healthcare.,Smart homes rely on IoT and AI.,1
+Robots are becoming more intelligent with AI.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,The moon is made of cheese.,0
+Natural language processing powers virtual assistants.,Quantum computing will revolutionize security.,1
+AI helps in wildlife conservation.,Artificial intelligence is revolutionizing healthcare.,1
+Smart homes rely on IoT and AI.,Robots are becoming more intelligent with AI.,1
+AI helps in wildlife conservation.,Mars has the same atmosphere as Earth.,0
+Artificial intelligence is revolutionizing healthcare.,Robots are becoming more intelligent with AI.,1
+Quantum computing will revolutionize security.,The moon is made of cheese.,0
+Machine learning models are improving daily.,Quantum computing will revolutionize security.,1
+Quantum computing will revolutionize security.,Artificial intelligence is revolutionizing healthcare.,1
+Self-driving cars use deep learning.,Self-driving cars use deep learning.,1
+Predictive analytics saves time and money.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,AI chatbots are getting smarter.,1
+Machine learning models are improving daily.,AI helps in wildlife conservation.,1
+Smart homes rely on IoT and AI.,AI helps in wildlife conservation.,1
+Machine learning models are improving daily.,Natural language processing powers virtual assistants.,1
+AI helps in wildlife conservation.,The best way to write code is with no errors.,0
+Quantum computing will revolutionize security.,The moon is made of cheese.,0
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Predictive analytics saves time and money.,The best way to write code is with no errors.,0
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+Robots are becoming more intelligent with AI.,Machine learning models are improving daily.,1
+Machine learning models are improving daily.,Predictive analytics saves time and money.,1
+Self-driving cars use deep learning.,The moon is made of cheese.,0
+Machine learning models are improving daily.,Self-driving cars use deep learning.,1
+Predictive analytics saves time and money.,Self-driving cars use deep learning.,1
+AI chatbots are getting smarter.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,Predictive analytics saves time and money.,1
+Self-driving cars use deep learning.,The best way to write code is with no errors.,0
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Robots are becoming more intelligent with AI.,Mountains are located under the sea.,0
+Natural language processing powers virtual assistants.,Self-driving cars use deep learning.,1
+Smart homes rely on IoT and AI.,Predictive analytics saves time and money.,1
+Quantum computing will revolutionize security.,Quantum computing will revolutionize security.,1
+AI helps in wildlife conservation.,I prefer rainy days over sunny days.,0
+AI helps in wildlife conservation.,Robots are becoming more intelligent with AI.,1
+Quantum computing will revolutionize security.,Birds can swim in the ocean.,0
+AI chatbots are getting smarter.,Pineapples belong on pizza.,0
+AI helps in wildlife conservation.,The Earth is flat according to some people.,0
+Predictive analytics saves time and money.,AI chatbots are getting smarter.,1
+Smart homes rely on IoT and AI.,The best way to write code is with no errors.,0
+Quantum computing will revolutionize security.,AI helps in wildlife conservation.,1
+AI helps in wildlife conservation.,Predictive analytics saves time and money.,1
+Predictive analytics saves time and money.,Artificial intelligence is revolutionizing healthcare.,1
+Artificial intelligence is revolutionizing healthcare.,Mountains are located under the sea.,0
+AI helps in wildlife conservation.,Winter is hotter than summer.,0
+Self-driving cars use deep learning.,Cats are better than dogs in racing.,0
+Self-driving cars use deep learning.,Machine learning models are improving daily.,1
+Machine learning models are improving daily.,Cats are better than dogs in racing.,0
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+AI helps in wildlife conservation.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Quantum computing will revolutionize security.,I prefer rainy days over sunny days.,0
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,Robots are becoming more intelligent with AI.,1
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+AI helps in wildlife conservation.,The best way to write code is with no errors.,0
+Smart homes rely on IoT and AI.,Birds can swim in the ocean.,0
+Self-driving cars use deep learning.,Robots are becoming more intelligent with AI.,1
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,Natural language processing powers virtual assistants.,1
+Smart homes rely on IoT and AI.,Natural language processing powers virtual assistants.,1
+AI helps in wildlife conservation.,Birds can swim in the ocean.,0
+AI chatbots are getting smarter.,Artificial intelligence is revolutionizing healthcare.,1
+Smart homes rely on IoT and AI.,AI helps in wildlife conservation.,1
+Artificial intelligence is revolutionizing healthcare.,Winter is hotter than summer.,0
+Artificial intelligence is revolutionizing healthcare.,Pineapples belong on pizza.,0
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+Machine learning models are improving daily.,Natural language processing powers virtual assistants.,1
+AI chatbots are getting smarter.,I prefer rainy days over sunny days.,0
+Predictive analytics saves time and money.,Artificial intelligence is revolutionizing healthcare.,1
+Smart homes rely on IoT and AI.,I prefer rainy days over sunny days.,0
+Machine learning models are improving daily.,Natural language processing powers virtual assistants.,1
+Self-driving cars use deep learning.,Self-driving cars use deep learning.,1
+Artificial intelligence is revolutionizing healthcare.,Quantum computing will revolutionize security.,1
+Quantum computing will revolutionize security.,I prefer rainy days over sunny days.,0
+Natural language processing powers virtual assistants.,Machine learning models are improving daily.,1
+Predictive analytics saves time and money.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,Mars has the same atmosphere as Earth.,0
+Quantum computing will revolutionize security.,Mars has the same atmosphere as Earth.,0
+Robots are becoming more intelligent with AI.,Machine learning models are improving daily.,1
+Natural language processing powers virtual assistants.,AI chatbots are getting smarter.,1
+Natural language processing powers virtual assistants.,Machine learning models are improving daily.,1
+Natural language processing powers virtual assistants.,The Earth is flat according to some people.,0
+Artificial intelligence is revolutionizing healthcare.,Mountains are located under the sea.,0
+Self-driving cars use deep learning.,I prefer rainy days over sunny days.,0
+AI chatbots are getting smarter.,Birds can swim in the ocean.,0
+Robots are becoming more intelligent with AI.,Artificial intelligence is revolutionizing healthcare.,1
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+AI helps in wildlife conservation.,Artificial intelligence is revolutionizing healthcare.,1
+Artificial intelligence is revolutionizing healthcare.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+Natural language processing powers virtual assistants.,The best way to write code is with no errors.,0
+Quantum computing will revolutionize security.,Mars has the same atmosphere as Earth.,0
+AI chatbots are getting smarter.,Mountains are located under the sea.,0
+AI chatbots are getting smarter.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+Artificial intelligence is revolutionizing healthcare.,Winter is hotter than summer.,0
+AI chatbots are getting smarter.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,Birds can swim in the ocean.,0
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+Natural language processing powers virtual assistants.,Winter is hotter than summer.,0
+Self-driving cars use deep learning.,AI helps in wildlife conservation.,1
+Natural language processing powers virtual assistants.,Smart homes rely on IoT and AI.,1
+AI chatbots are getting smarter.,Mars has the same atmosphere as Earth.,0
+Machine learning models are improving daily.,Artificial intelligence is revolutionizing healthcare.,1
+Predictive analytics saves time and money.,AI helps in wildlife conservation.,1
+Self-driving cars use deep learning.,Robots are becoming more intelligent with AI.,1
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+Natural language processing powers virtual assistants.,Self-driving cars use deep learning.,1
+Quantum computing will revolutionize security.,Mountains are located under the sea.,0
+Predictive analytics saves time and money.,Quantum computing will revolutionize security.,1
+Predictive analytics saves time and money.,I prefer rainy days over sunny days.,0
+Natural language processing powers virtual assistants.,Birds can swim in the ocean.,0
+Quantum computing will revolutionize security.,The Earth is flat according to some people.,0
+AI helps in wildlife conservation.,Smart homes rely on IoT and AI.,1
+Quantum computing will revolutionize security.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,Pineapples belong on pizza.,0
+Predictive analytics saves time and money.,Quantum computing will revolutionize security.,1
+Smart homes rely on IoT and AI.,Quantum computing will revolutionize security.,1
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+AI chatbots are getting smarter.,Predictive analytics saves time and money.,1
+AI helps in wildlife conservation.,Birds can swim in the ocean.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Smart homes rely on IoT and AI.,Mars has the same atmosphere as Earth.,0
+Artificial intelligence is revolutionizing healthcare.,Quantum computing will revolutionize security.,1
+Self-driving cars use deep learning.,AI chatbots are getting smarter.,1
+AI helps in wildlife conservation.,I prefer rainy days over sunny days.,0
+AI chatbots are getting smarter.,Machine learning models are improving daily.,1
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+AI chatbots are getting smarter.,AI chatbots are getting smarter.,1
+Natural language processing powers virtual assistants.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,The best way to write code is with no errors.,0
+Robots are becoming more intelligent with AI.,AI chatbots are getting smarter.,1
+Predictive analytics saves time and money.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,Mountains are located under the sea.,0
+Natural language processing powers virtual assistants.,Mars has the same atmosphere as Earth.,0
+Artificial intelligence is revolutionizing healthcare.,Natural language processing powers virtual assistants.,1
+AI chatbots are getting smarter.,Robots are becoming more intelligent with AI.,1
+Natural language processing powers virtual assistants.,Artificial intelligence is revolutionizing healthcare.,1
+Self-driving cars use deep learning.,AI helps in wildlife conservation.,1
+Predictive analytics saves time and money.,Robots are becoming more intelligent with AI.,1
+Predictive analytics saves time and money.,Self-driving cars use deep learning.,1
+Smart homes rely on IoT and AI.,Winter is hotter than summer.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Self-driving cars use deep learning.,AI helps in wildlife conservation.,1
+Robots are becoming more intelligent with AI.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Artificial intelligence is revolutionizing healthcare.,1
+Self-driving cars use deep learning.,Self-driving cars use deep learning.,1
+Predictive analytics saves time and money.,AI helps in wildlife conservation.,1
+Robots are becoming more intelligent with AI.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Mars has the same atmosphere as Earth.,0
+Machine learning models are improving daily.,Quantum computing will revolutionize security.,1
+AI chatbots are getting smarter.,The best way to write code is with no errors.,0
+AI chatbots are getting smarter.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,Birds can swim in the ocean.,0
+Robots are becoming more intelligent with AI.,Winter is hotter than summer.,0
+Quantum computing will revolutionize security.,The best way to write code is with no errors.,0
+AI chatbots are getting smarter.,Mountains are located under the sea.,0
+AI chatbots are getting smarter.,Artificial intelligence is revolutionizing healthcare.,1
+Artificial intelligence is revolutionizing healthcare.,Birds can swim in the ocean.,0
+Machine learning models are improving daily.,Birds can swim in the ocean.,0
+AI helps in wildlife conservation.,Pineapples belong on pizza.,0
+Quantum computing will revolutionize security.,Mountains are located under the sea.,0
+Artificial intelligence is revolutionizing healthcare.,Robots are becoming more intelligent with AI.,1
+Natural language processing powers virtual assistants.,Predictive analytics saves time and money.,1
+Predictive analytics saves time and money.,I prefer rainy days over sunny days.,0
+Artificial intelligence is revolutionizing healthcare.,I prefer rainy days over sunny days.,0
+Machine learning models are improving daily.,Cats are better than dogs in racing.,0
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+Smart homes rely on IoT and AI.,Machine learning models are improving daily.,1
+Smart homes rely on IoT and AI.,Robots are becoming more intelligent with AI.,1
+AI helps in wildlife conservation.,Robots are becoming more intelligent with AI.,1
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+Self-driving cars use deep learning.,I prefer rainy days over sunny days.,0
+Artificial intelligence is revolutionizing healthcare.,AI chatbots are getting smarter.,1
+Artificial intelligence is revolutionizing healthcare.,The moon is made of cheese.,0
+Robots are becoming more intelligent with AI.,Birds can swim in the ocean.,0
+AI helps in wildlife conservation.,Mars has the same atmosphere as Earth.,0
+Machine learning models are improving daily.,AI chatbots are getting smarter.,1
+Smart homes rely on IoT and AI.,The best way to write code is with no errors.,0
+AI helps in wildlife conservation.,Cats are better than dogs in racing.,0
+Smart homes rely on IoT and AI.,Predictive analytics saves time and money.,1
+Machine learning models are improving daily.,Artificial intelligence is revolutionizing healthcare.,1
+Artificial intelligence is revolutionizing healthcare.,Quantum computing will revolutionize security.,1
+Natural language processing powers virtual assistants.,Pineapples belong on pizza.,0
+AI chatbots are getting smarter.,Smart homes rely on IoT and AI.,1
+Quantum computing will revolutionize security.,Quantum computing will revolutionize security.,1
+Predictive analytics saves time and money.,Self-driving cars use deep learning.,1
+Predictive analytics saves time and money.,AI chatbots are getting smarter.,1
+Predictive analytics saves time and money.,Quantum computing will revolutionize security.,1
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+AI chatbots are getting smarter.,Artificial intelligence is revolutionizing healthcare.,1
+Natural language processing powers virtual assistants.,Winter is hotter than summer.,0
+Smart homes rely on IoT and AI.,Self-driving cars use deep learning.,1
+Predictive analytics saves time and money.,Pineapples belong on pizza.,0
+Natural language processing powers virtual assistants.,Cats are better than dogs in racing.,0
+Robots are becoming more intelligent with AI.,Robots are becoming more intelligent with AI.,1
+Artificial intelligence is revolutionizing healthcare.,The best way to write code is with no errors.,0
+AI helps in wildlife conservation.,The Earth is flat according to some people.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+AI chatbots are getting smarter.,The moon is made of cheese.,0
+Smart homes rely on IoT and AI.,Birds can swim in the ocean.,0
+Machine learning models are improving daily.,Artificial intelligence is revolutionizing healthcare.,1
+Natural language processing powers virtual assistants.,Predictive analytics saves time and money.,1
+Self-driving cars use deep learning.,I prefer rainy days over sunny days.,0
+Robots are becoming more intelligent with AI.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,The best way to write code is with no errors.,0
+Self-driving cars use deep learning.,AI helps in wildlife conservation.,1
+Artificial intelligence is revolutionizing healthcare.,Robots are becoming more intelligent with AI.,1
+Quantum computing will revolutionize security.,Smart homes rely on IoT and AI.,1
+Natural language processing powers virtual assistants.,Smart homes rely on IoT and AI.,1
+Self-driving cars use deep learning.,Mars has the same atmosphere as Earth.,0
+Natural language processing powers virtual assistants.,Natural language processing powers virtual assistants.,1
+Robots are becoming more intelligent with AI.,The moon is made of cheese.,0
+Predictive analytics saves time and money.,The best way to write code is with no errors.,0
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Self-driving cars use deep learning.,The Earth is flat according to some people.,0
+AI chatbots are getting smarter.,Self-driving cars use deep learning.,1
+AI chatbots are getting smarter.,Birds can swim in the ocean.,0
+Quantum computing will revolutionize security.,Mars has the same atmosphere as Earth.,0
+Natural language processing powers virtual assistants.,Natural language processing powers virtual assistants.,1
+Natural language processing powers virtual assistants.,Robots are becoming more intelligent with AI.,1
+AI chatbots are getting smarter.,Cats are better than dogs in racing.,0
+AI chatbots are getting smarter.,Mars has the same atmosphere as Earth.,0
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+Predictive analytics saves time and money.,The best way to write code is with no errors.,0
+Predictive analytics saves time and money.,Self-driving cars use deep learning.,1
+Robots are becoming more intelligent with AI.,Artificial intelligence is revolutionizing healthcare.,1
+AI helps in wildlife conservation.,The moon is made of cheese.,0
+Quantum computing will revolutionize security.,Natural language processing powers virtual assistants.,1
+Quantum computing will revolutionize security.,Pineapples belong on pizza.,0
+AI helps in wildlife conservation.,Quantum computing will revolutionize security.,1
+Predictive analytics saves time and money.,Machine learning models are improving daily.,1
+AI chatbots are getting smarter.,AI chatbots are getting smarter.,1
+AI chatbots are getting smarter.,Smart homes rely on IoT and AI.,1
+Robots are becoming more intelligent with AI.,Quantum computing will revolutionize security.,1
+Machine learning models are improving daily.,Robots are becoming more intelligent with AI.,1
+AI helps in wildlife conservation.,Machine learning models are improving daily.,1
+Machine learning models are improving daily.,The moon is made of cheese.,0
+Machine learning models are improving daily.,The best way to write code is with no errors.,0
+Smart homes rely on IoT and AI.,AI helps in wildlife conservation.,1
+Artificial intelligence is revolutionizing healthcare.,Quantum computing will revolutionize security.,1
+Quantum computing will revolutionize security.,Machine learning models are improving daily.,1
+Predictive analytics saves time and money.,I prefer rainy days over sunny days.,0
+AI chatbots are getting smarter.,Cats are better than dogs in racing.,0
+Robots are becoming more intelligent with AI.,AI helps in wildlife conservation.,1
+Self-driving cars use deep learning.,Smart homes rely on IoT and AI.,1
+Smart homes rely on IoT and AI.,The Earth is flat according to some people.,0
+Machine learning models are improving daily.,Machine learning models are improving daily.,1
+Predictive analytics saves time and money.,The moon is made of cheese.,0
+Predictive analytics saves time and money.,Predictive analytics saves time and money.,1
+Natural language processing powers virtual assistants.,Winter is hotter than summer.,0
+AI helps in wildlife conservation.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,The best way to write code is with no errors.,0
+Natural language processing powers virtual assistants.,The Earth is flat according to some people.,0
+Quantum computing will revolutionize security.,I prefer rainy days over sunny days.,0
+Robots are becoming more intelligent with AI.,Mars has the same atmosphere as Earth.,0
+Smart homes rely on IoT and AI.,Pineapples belong on pizza.,0
+Machine learning models are improving daily.,Robots are becoming more intelligent with AI.,1
+Predictive analytics saves time and money.,AI helps in wildlife conservation.,1
+Artificial intelligence is revolutionizing healthcare.,Mars has the same atmosphere as Earth.,0
+Quantum computing will revolutionize security.,Mars has the same atmosphere as Earth.,0
+Self-driving cars use deep learning.,AI chatbots are getting smarter.,1
+AI chatbots are getting smarter.,The Earth is flat according to some people.,0
+Predictive analytics saves time and money.,Birds can swim in the ocean.,0
+Natural language processing powers virtual assistants.,I prefer rainy days over sunny days.,0
+Artificial intelligence is revolutionizing healthcare.,The moon is made of cheese.,0
+Quantum computing will revolutionize security.,Artificial intelligence is revolutionizing healthcare.,1
+AI chatbots are getting smarter.,The best way to write code is with no errors.,0
+Self-driving cars use deep learning.,Cats are better than dogs in racing.,0
+Artificial intelligence is revolutionizing healthcare.,Natural language processing powers virtual assistants.,1
+Natural language processing powers virtual assistants.,Predictive analytics saves time and money.,1
+Natural language processing powers virtual assistants.,Predictive analytics saves time and money.,1
+Robots are becoming more intelligent with AI.,Cats are better than dogs in racing.,0
